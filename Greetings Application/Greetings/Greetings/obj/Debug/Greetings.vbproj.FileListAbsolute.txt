@@ -1,0 +1,10 @@
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Greetings Application\Greetings\Greetings\bin\Debug\Greetings.exe.config
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Greetings Application\Greetings\Greetings\bin\Debug\Greetings.exe
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Greetings Application\Greetings\Greetings\bin\Debug\Greetings.pdb
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Greetings Application\Greetings\Greetings\bin\Debug\Greetings.xml
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Greetings Application\Greetings\Greetings\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Greetings Application\Greetings\Greetings\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Greetings Application\Greetings\Greetings\obj\Debug\Greetings.vbproj.GenerateResource.Cache
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Greetings Application\Greetings\Greetings\obj\Debug\Greetings.exe
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Greetings Application\Greetings\Greetings\obj\Debug\Greetings.xml
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Greetings Application\Greetings\Greetings\obj\Debug\Greetings.pdb
