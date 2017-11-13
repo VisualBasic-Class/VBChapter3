@@ -1,0 +1,10 @@
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Room Charge Calculator\RoomChargeCalculator\RoomChargeCalculator\bin\Debug\RoomChargeCalculator.exe.config
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Room Charge Calculator\RoomChargeCalculator\RoomChargeCalculator\obj\Debug\WindowsApplication1.RoomChargeCalc.resources
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Room Charge Calculator\RoomChargeCalculator\RoomChargeCalculator\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Room Charge Calculator\RoomChargeCalculator\RoomChargeCalculator\obj\Debug\RoomChargeCalculator.vbproj.GenerateResource.Cache
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Room Charge Calculator\RoomChargeCalculator\RoomChargeCalculator\bin\Debug\RoomChargeCalculator.exe
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Room Charge Calculator\RoomChargeCalculator\RoomChargeCalculator\bin\Debug\RoomChargeCalculator.pdb
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Room Charge Calculator\RoomChargeCalculator\RoomChargeCalculator\bin\Debug\RoomChargeCalculator.xml
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Room Charge Calculator\RoomChargeCalculator\RoomChargeCalculator\obj\Debug\RoomChargeCalculator.exe
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Room Charge Calculator\RoomChargeCalculator\RoomChargeCalculator\obj\Debug\RoomChargeCalculator.xml
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Room Charge Calculator\RoomChargeCalculator\RoomChargeCalculator\obj\Debug\RoomChargeCalculator.pdb
