@@ -1,0 +1,10 @@
+C:\Users\ce146511\AppData\Local\Temporary Projects\DateString\bin\Debug\DateString.exe.config
+C:\Users\ce146511\AppData\Local\Temporary Projects\DateString\bin\Debug\DateString.exe
+C:\Users\ce146511\AppData\Local\Temporary Projects\DateString\bin\Debug\DateString.pdb
+C:\Users\ce146511\AppData\Local\Temporary Projects\DateString\bin\Debug\DateString.xml
+C:\Users\ce146511\AppData\Local\Temporary Projects\DateString\obj\Debug\DateString.Resources.resources
+C:\Users\ce146511\AppData\Local\Temporary Projects\DateString\obj\Debug\DateString.vbproj.GenerateResource.Cache
+C:\Users\ce146511\AppData\Local\Temporary Projects\DateString\obj\Debug\DateString.exe
+C:\Users\ce146511\AppData\Local\Temporary Projects\DateString\obj\Debug\DateString.xml
+C:\Users\ce146511\AppData\Local\Temporary Projects\DateString\obj\Debug\DateString.pdb
+C:\Users\ce146511\AppData\Local\Temporary Projects\DateString\obj\Debug\DateString.formDateString.resources
