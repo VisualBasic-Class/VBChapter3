@@ -1,0 +1,10 @@
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Celsius-to-Fahrenheit Converter\CelsiusToFahrenheit\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe.config
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Celsius-to-Fahrenheit Converter\CelsiusToFahrenheit\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Celsius-to-Fahrenheit Converter\CelsiusToFahrenheit\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.pdb
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Celsius-to-Fahrenheit Converter\CelsiusToFahrenheit\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.xml
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Celsius-to-Fahrenheit Converter\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\WindowsApplication1.CelsiusToFahrenheit.resources
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Celsius-to-Fahrenheit Converter\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Celsius-to-Fahrenheit Converter\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.vbproj.GenerateResource.Cache
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Celsius-to-Fahrenheit Converter\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.exe
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Celsius-to-Fahrenheit Converter\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.xml
+C:\Users\ce146511\Desktop\Visual Basic sauce\Chapter 3\Celsius-to-Fahrenheit Converter\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.pdb
